@@ -1,0 +1,7 @@
+This is a sample file containing almost nothing, it is just
+here to test the application of the Proxy design pattern and
+to see if it's able to work both as a Cache Proxy (thus,
+memorizing some important information) and as a Virtual Proxy
+(serving simple operations).
+Goodbye!
+  Massi
